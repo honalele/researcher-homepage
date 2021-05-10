@@ -17,6 +17,10 @@ My search information is updated in ResearchGate, which is from following.
 -----------------------------------------------------------------------------------
 ### Publications
 
+------ *2021*------
+- <u>Naren Bao</u>, Alexander Carballo, and Kazuya Takeda, “Learning Personalized Driver Models via Probabilistic Sequence-to-Sequence Approaches,” in 32nd 2021 IEEE Intelligent Vehicles Symposium (IV), Nagoy, July, 2021 (accepted).
+
+
 ------ *2020*------
 - <u>Naren Bao</u>, Alexander Carballo, Chiyomi Miyajima, Eijiro Takeuchi, and Kazuya Takeda, “Personalized Subjective Driving Risk: Analysis and Prediction,” Journal of Robotics and Mechatronics, Vol.32 No.3, June, 2020.
 
