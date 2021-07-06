@@ -81,5 +81,4 @@ I have a project to learn how to use Firebase to generate WebApp and AndroidApp 
 <img src="./fig/clouddx.jpeg" alt="ROS" style="zoom:67%;" />
 
 
-clouddx
 
